@@ -6,3 +6,4 @@ Instructions to run the "Extract_product_info.py" file.
 3)On the path with the folder containing all these files, run py command as "py Extract_product_info.py" provided that the Python 3 is already
 installed on the system.
 4)Once the script is run successfully, an output file named "output.json" should be created with all the details.
+5)At last if you wish not to run the python file from CLI, then you can directly double click to run the executable file(.exe) of the "Extract_product_info.py" anf get the desired "output.json".
